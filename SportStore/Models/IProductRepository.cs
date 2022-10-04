@@ -11,6 +11,6 @@ namespace SportStore.Models
         public int PageCount { get; set; }
 
         public IEnumerable<Product> GetEFProduct(int currentPage);
-
+        public double getPageCount();
     }
 }

@@ -10,25 +10,30 @@ namespace SportStore.Controllers
 
     {
         private readonly IProductRepository repository;
-        public ProductController(IProductRepository repo)
+
+        public ProductController(IProductRepository repo )
         {
             repository = repo;
+           
 
         }
 
-        public  IActionResult List()
 
         
-        {
-            
-           return View(repository.GetEFProduct(1));
-        }
-
-        [HttpPost]
+        [HttpGet]
        public IActionResult List(int currentPageIndex)
         {
+            if(currentPageIndex < 1)
+            {
+                currentPageIndex = 1;
+            }
+            ProductModel productModel = new ProductModel();
+            productModel.Products = repository.GetEFProduct(currentPageIndex);
 
-            return View(repository.GetEFProduct(currentPageIndex));
+            productModel.PageCount = repository.getPageCount();
+
+
+            return View(productModel);
         }
     
     

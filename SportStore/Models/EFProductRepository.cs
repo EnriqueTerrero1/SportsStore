@@ -6,12 +6,14 @@
         private readonly string connectionString;
         public int CurrentPageIndex { get; set; }
         public int PageCount { get; set; }
+        public int maxRow = 2;
 
 
         public EFProductRepository (ApplicationDbContext ctx, IConfiguration configuration)
         {
             context = ctx;
             connectionString = configuration.GetConnectionString("DefaultConnection");
+
         }
 
        
@@ -21,17 +23,22 @@
         public IEnumerable<Product> GetEFProduct(int currentPage)
 
         {
-            int maxRow = 2;
+           
             var products = context.products;
 
             var  PagedProduct= products.OrderBy(products => products.ProductId).Skip((currentPage-1)*maxRow).Take(maxRow).ToList();
 
-            double pageCount=(double)((decimal)products.Count()/Convert.ToDecimal(maxRow));
+            getPageCount();
             CurrentPageIndex = currentPage;
 
             return PagedProduct;
         }
+        public double getPageCount()
+        {
+            var products = context.products;
 
+            return (double)((decimal)products.Count() / Convert.ToDecimal(maxRow));
+        }
 
 
     }

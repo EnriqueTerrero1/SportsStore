@@ -16,3 +16,10 @@ html {
 body {
   margin-bottom: 60px;
 }
+paginationbox{
+    display:flex;
+    flex-direction:row;
+}
+pagination {
+    flex-direction: row;
+}

@@ -1,7 +1,7 @@
-﻿@model IEnumerable<Product>
+﻿@model ProductModel
 
 
-@foreach(var p in @Model)
+@foreach(var p in @Model.Products)
 {
     <div>
         <h3>@p.Name </h3>
@@ -11,6 +11,19 @@
     </div>
 
 }
+
+<nav aria-label="Page navigation example" class="paginationbox">
+      <ul class="pagination">
+@for(int i =1; i <= @Model.PageCount; i++)
+{
+
+<li class="page-item"><a class="page-link" asp-action="List" asp-route-currentPageIndex=@i>@i</a></li>
+            
+}
+</ul>
+</nav>
+
+
 
 
  
