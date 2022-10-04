@@ -1,45 +1,112 @@
-﻿++Solution 'SportStore' ‎(1 of 1 project)
+﻿++Solution 'SportStore' ‎(2 of 2 projects)
 i:{00000000-0000-0000-0000-000000000000}:SportStore.sln
+++Test
+i:{00000000-0000-0000-0000-000000000000}:Test
+++SportsStore.Tests
+i:{7d8c0f2d-d45d-47c7-880b-2a70cc6bee08}:SportsStore.Tests
+++Dependencies
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:>367
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>667
+++Class1.cs
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:c:\users\enrique terrero\documents\sportstore\sportsstore.tests\class1.cs
+++Analyzers
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:analyzers
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:analyzers
+++Frameworks
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:frameworks
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:frameworks
+++Packages
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:packages
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:packages
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:c:\users\enrique terrero\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-rc.1.22426.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-rc.1.22426.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:c:\users\enrique terrero\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-rc.1.22426.10\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-rc.1.22426.10\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:c:\users\enrique terrero\.nuget\packages\system.text.json\7.0.0-rc.1.22426.10\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\.nuget\packages\system.text.json\7.0.0-rc.1.22426.10\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:c:\users\enrique terrero\documents\sportstore\sportsstore.tests\microsoft.netcore.app
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (7.0.0-rc.1.22426.7)
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:>696
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>701
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.0-rc.1.22426.7)
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:>698
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>702
+++Microsoft.EntityFrameworkCore.Tools (7.0.0-rc.1.22426.7)
+i:{5141c92c-b054-4704-a9c0-624f4cf68228}:>699
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>706
 ++SportStore
 i:{00000000-0000-0000-0000-000000000000}:SportStore
 ++Connected Services 
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>195
-++No service dependencies discovered
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>196
-++Dependencies
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>194
-++Analyzers
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:analyzers
-++Frameworks
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:frameworks
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>668
 ++Properties
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\properties\
-++launchSettings.json
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\properties\launchsettings.json
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\properties\
 ++wwwroot
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\
-++css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\css\
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\
-++js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\js\
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\
-++lib
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\
-++favicon.ico
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\favicon.ico
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\
 ++Controllers
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\controllers\
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\controllers\
 ++Models
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\models\
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\models\
+++ApplicationDbContext.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\models\applicationdbcontext.cs
+++EFProductRepository.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\models\efproductrepository.cs
+++ErrorViewModel.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\models\errorviewmodel.cs
+++FakeProductRepository.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\models\fakeproductrepository.cs
+++IProductRepository.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\models\iproductrepository.cs
+++Product.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\models\product.cs
+++test
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\test\
 ++Views
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\
 ++appsettings.json
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\appsettings.json
-++appsettings.Development.json
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\appsettings.development.json
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\appsettings.json
 ++Program.cs
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\program.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\program.cs
+++No service dependencies discovered
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>669
+++launchSettings.json
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\properties\launchsettings.json
+++css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\css\
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\js\
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\
+++favicon.ico
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\favicon.ico
+++HomeController.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\controllers\homecontroller.cs
+++ProductController.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\controllers\productcontroller.cs
+++Home
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\home\
+++Product
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\product\
+++Shared
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\shared\
+++_ViewImports.cshtml
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\_viewstart.cshtml
+++appsettings.Development.json
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\appsettings.development.json
 ++Microsoft.AspNetCore.Analyzers
 i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
 ++Microsoft.AspNetCore.App.Analyzers
@@ -52,186 +119,171 @@ i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdk
 i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
 ++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
 i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
-++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-++Microsoft.CodeAnalysis.NetAnalyzers
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-++Microsoft.Extensions.Logging.Generators
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-++Microsoft.NET.Sdk.Razor.SourceGenerators
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
-++System.Text.Json.SourceGeneration
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-++Microsoft.AspNetCore.App
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\microsoft.aspnetcore.app
-++Microsoft.NETCore.App
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\microsoft.netcore.app
-++site.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\css\site.css
-++site.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\js\site.js
-++bootstrap
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\
-++jquery
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery\
-++jquery-validation
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation\
-++jquery-validation-unobtrusive
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation-unobtrusive\
-++HomeController.cs
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\controllers\homecontroller.cs
-++ErrorViewModel.cs
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\models\errorviewmodel.cs
-++Home
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\home\
-++Shared
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\shared\
-++_ViewImports.cshtml
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\_viewimports.cshtml
-++_ViewStart.cshtml
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\_viewstart.cshtml
-++dist
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery\dist\
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\
-++LICENSE
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\license
-++LICENSE.txt
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery\license.txt
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation-unobtrusive\license.txt
-++LICENSE.md
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation\license.md
-++jquery.validate.unobtrusive.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-++Index.cshtml
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\home\index.cshtml
-++Privacy.cshtml
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\home\privacy.cshtml
-++_Layout.cshtml
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\shared\_layout.cshtml
-++_ValidationScriptsPartial.cshtml
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\shared\_validationscriptspartial.cshtml
-++Error.cshtml
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\shared\error.cshtml
-++jquery.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery\dist\jquery.js
-++additional-methods.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\additional-methods.js
-++jquery.validate.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-++jquery.validate.unobtrusive.min.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
-++_Layout.cshtml.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\views\shared\_layout.cshtml.css
-++bootstrap.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-++bootstrap-grid.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-++bootstrap-reboot.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-++bootstrap-utilities.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-++bootstrap.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-++jquery.min.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery\dist\jquery.min.js
-++additional-methods.min.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-++jquery.validate.min.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-++bootstrap.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-++bootstrap.min.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-++bootstrap.rtl.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-++bootstrap-grid.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-++bootstrap-grid.min.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-++bootstrap-grid.rtl.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-++bootstrap-reboot.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-++bootstrap-reboot.min.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-++bootstrap-reboot.rtl.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-++bootstrap-utilities.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-++bootstrap-utilities.min.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-++bootstrap-utilities.rtl.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-++bootstrap.bundle.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-++bootstrap.esm.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-++bootstrap.js.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-++bootstrap.min.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-++jquery.min.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\jquery\dist\jquery.min.map
-++bootstrap.min.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-++bootstrap.rtl.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-++bootstrap.rtl.min.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-++bootstrap-grid.min.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-++bootstrap-grid.rtl.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-++bootstrap-grid.rtl.min.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-++bootstrap-reboot.min.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-++bootstrap-reboot.rtl.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-++bootstrap-reboot.rtl.min.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-++bootstrap-utilities.min.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-++bootstrap-utilities.rtl.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-++bootstrap-utilities.rtl.min.css
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-++bootstrap.bundle.js.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-++bootstrap.bundle.min.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-++bootstrap.esm.js.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-++bootstrap.esm.min.js
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-++bootstrap.min.js.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-++bootstrap.rtl.min.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-++bootstrap-grid.rtl.min.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-++bootstrap-reboot.rtl.min.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-++bootstrap-utilities.rtl.min.css.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-++bootstrap.bundle.min.js.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-++bootstrap.esm.min.js.map
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\angularpelicula\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-++Packages
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:packages
-++Microsoft.AspNetCore.Razor.Tools (1.1.0-preview4-final)
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>452
 ++Microsoft.CodeAnalysis.Analyzers
 i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
 ++Microsoft.CodeAnalysis.CSharp.Analyzers
 i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\microsoft.aspnetcore.app
+++Microsoft.AspNet.Mvc (5.2.9)
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>704
+++Microsoft.AspNetCore.Razor.Tools (1.1.0-preview4-final)
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>705
 ++Microsoft.AspNetCore.StaticFiles (2.2.0)
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>451
-++Microsoft.AspNetCore.Mvc (2.2.0)
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>703
+++site.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\css\site.css
+++site.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\js\site.js
+++bootstrap
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\
+++jquery
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery\
+++jquery-validation
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\home\index.cshtml
+++Privacy.cshtml
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\home\privacy.cshtml
+++List.cshtml
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\product\list.cshtml
+++_Layout.cshtml
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\shared\error.cshtml
+++dist
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery\dist\
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery\license.txt
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\views\shared\_layout.cshtml.css
+++jquery.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Migrations
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\migrations\
+++20220929234445_Initial.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\migrations\20220929234445_initial.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\migrations\applicationdbcontextmodelsnapshot.cs
+++20220929234445_Initial.Designer.cs
+i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:c:\users\enrique terrero\documents\sportstore\sportstore\migrations\20220929234445_initial.designer.cs
 ++Script Documents
 ++VM5
 ++aspnetcore-browser-refresh.js
-++Microsoft.AspNet.Mvc (5.2.9)
-i:{e1493fa3-9bc4-43e0-8373-aa52bd7133b1}:>450

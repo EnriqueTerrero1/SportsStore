@@ -1,0 +1,14 @@
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\bin\Debug\net6.0\SportsStore.Tests.deps.json
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\bin\Debug\net6.0\SportsStore.Tests.runtimeconfig.json
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\bin\Debug\net6.0\SportsStore.Tests.dll
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\bin\Debug\net6.0\SportsStore.Tests.pdb
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.csproj.AssemblyReference.cache
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.dll
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\refint\SportsStore.Tests.dll
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.pdb
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.genruntimeconfig.cache
+C:\Users\Enrique Terrero\Documents\SportStore\SportsStore.Tests\obj\Debug\net6.0\ref\SportsStore.Tests.dll
