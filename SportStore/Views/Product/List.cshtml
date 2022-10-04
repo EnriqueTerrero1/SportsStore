@@ -1,12 +1,23 @@
 ﻿@model ProductModel
 
 
+
 @foreach(var p in @Model.Products)
 {
-    <div>
-        <h3>@p.Name </h3>
-            @p.Description
-            <h4>@p.Price.ToString("c")</h4>
+    
+    <div class="card w-75">
+        <div class="card-body">
+        
+
+            <div>
+            <h5 class="card-title">@p.Name</h5>
+            <p class="card-text">@p.Description</p>
+            </div>
+            <div class=card-price>
+            <h3>@p.Price.ToString("c")</h3>
+            </div>
+        </div>
+        
      
     </div>
 

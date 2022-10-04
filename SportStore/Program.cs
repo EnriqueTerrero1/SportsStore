@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Components.Routing;
 using Microsoft.EntityFrameworkCore;
 using SportStore.Controllers;
 using SportStore.Models;
@@ -30,6 +31,8 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Product}/{action=List}/{id?}");
+    pattern: "{controller=Product}/{action=List}/{currentPageIndex?}");
+
+
 
 app.Run();

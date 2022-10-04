@@ -23,3 +23,22 @@ paginationbox{
 pagination {
     flex-direction: row;
 }
+.contenedor {
+    display:flex;
+    flex-direction:row;
+}
+.menuLateral{
+    margin: 25px;
+}
+.contenido{
+    width:100%;
+    margin-top:15px;
+}
+.card-body{
+    display:flex;
+    flex-direction:row;
+}
+.card-price{
+    margin-left:auto;
+}
+
