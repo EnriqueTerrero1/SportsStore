@@ -21,17 +21,22 @@ namespace SportStore.Controllers
 
         
         [HttpGet]
-       public IActionResult List(int currentPageIndex)
+       public IActionResult List(int currentPageIndex,string category)
         {
-            if(currentPageIndex < 1)
+            ViewBag.SelectedCategory = category;
+            if (currentPageIndex < 1)
             {
                 currentPageIndex = 1;
             }
             ProductModel productModel = new ProductModel();
-            productModel.Products = repository.GetEFProduct(currentPageIndex);
-
-            productModel.PageCount = repository.getPageCount();
-
+            productModel.PageCount = repository.getPageCount(category);
+            if (productModel.PageCount <1 || productModel.PageCount < currentPageIndex)
+            {
+                currentPageIndex = 1;
+            }
+            productModel.Products = repository.GetEFProduct(currentPageIndex ,category);
+            productModel.CurrentCategory = category;
+           
 
             return View(productModel);
         }

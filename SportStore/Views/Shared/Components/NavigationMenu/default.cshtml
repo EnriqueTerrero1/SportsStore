@@ -1,0 +1,30 @@
+﻿@model IEnumerable<string>
+
+@{
+
+    string highligh(string category){
+
+        if (category == ViewBag.SelectedCategory)
+        {
+            return "nav-link active";
+        }
+        else
+        {
+            return "nav-link";
+        }
+
+       
+
+    }
+}
+
+    <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+    <a class="btn btn-dark" asp-action="List" asp-controller="Product">Home</a>
+    @foreach(string category in Model)
+            {
+      <a class="@highligh(category)"  asp-action="List" asp-controller="Product"  asp-route-category="@category" 
+      asp-route-productPage="1">@category</a>
+            }
+            </div>
+
+

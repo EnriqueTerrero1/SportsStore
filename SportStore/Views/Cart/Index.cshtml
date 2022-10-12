@@ -1,0 +1,40 @@
+﻿@model CartIndexViewModel
+
+@{
+
+}
+
+
+<table class="table">
+     
+
+    <tr>
+      <th scope="col" >Quantity</th>
+      <th scope="col" >Item</th>
+      <th scope="col" >Price</th>
+      <th scope="col">Subtotal</th>
+    </tr>
+   
+  
+@foreach( var line in Model.Carts)
+{
+
+    <partial name="_CartSummary" model="line"/>
+    
+       
+      
+}
+  
+<tr>
+    <td></td>
+    <td></td>
+    <td><b>Total: </b></td>
+    <td> <b>@Model.Total.ToString("C")</b></td>
+</tr>
+
+</table>
+
+
+
+
+<a  class=" btn btn-primary" asp-action="List" asp-controller="Product">Continue Shopping</a>

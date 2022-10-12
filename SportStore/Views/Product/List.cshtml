@@ -4,23 +4,7 @@
 
 @foreach(var p in @Model.Products)
 {
-    
-    <div class="card w-75">
-        <div class="card-body">
-        
-
-            <div>
-            <h5 class="card-title">@p.Name</h5>
-            <p class="card-text">@p.Description</p>
-            </div>
-            <div class=card-price>
-            <h3>@p.Price.ToString("c")</h3>
-            </div>
-        </div>
-        
-     
-    </div>
-
+    <partial name="_ProductSummary" model="p"/>
 }
 
 <nav aria-label="Page navigation example" class="paginationbox">
@@ -28,7 +12,7 @@
 @for(int i =1; i <= @Model.PageCount; i++)
 {
 
-<li class="page-item"><a class="page-link" asp-action="List" asp-route-currentPageIndex=@i>@i</a></li>
+<li class="page-item"><a class="page-link" asp-action="List" asp-route-currentPageIndex=@i asp-route-category=@Model.CurrentCategory>@i</a></li>
             
 }
 </ul>

@@ -1,0 +1,29 @@
+﻿@model CartLine
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+@{
+   
+}
+<div class="card w-75">
+        <div class="card-body">
+        
+           <form asp-action="EditFromCart1"  asp-controller="Cart" method="Post">
+
+            <div>
+            <input type="hidden" asp-for="@Model.Product.ProductId"/>
+              <h5 class="card-title">@Model.Product.Name</h5>
+            <p class="card-text">@Model.Product.Description</p>
+            </div>
+            <div class=card-price>
+            <h3>@Model.Product.Price.ToString("c")</h3>
+            <input asp-for="@Model.Quantity"/>
+            </div>
+            <div>
+                <button type ="submit" class="btn btn-success"> Add To Cart</button>
+            </div>
+            </form>
+        </div>
+        
+     
+    </div>
+

@@ -20,24 +20,25 @@
 
         public IEnumerable<Product> Products => context.products;
 
-        public IEnumerable<Product> GetEFProduct(int currentPage)
+        public IEnumerable<Product> GetEFProduct(int currentPage, string category)
 
         {
-           
+       
             var products = context.products;
-
-            var  PagedProduct= products.OrderBy(products => products.ProductId).Skip((currentPage-1)*maxRow).Take(maxRow).ToList();
-
-            getPageCount();
+            var  PagedProduct= products.Where(products => category== null || products.Category == category).OrderBy(products => products.ProductId).Skip((currentPage-1)*maxRow).Take(maxRow).ToList();
+           
+            getPageCount(category);
             CurrentPageIndex = currentPage;
+
 
             return PagedProduct;
         }
-        public double getPageCount()
+        public double getPageCount( string category)
         {
             var products = context.products;
+            var amountOfProductByCategory = products.Where(products => category == null || products.Category == category).OrderBy(products => products.ProductId).ToList();
 
-            return (double)((decimal)products.Count() / Convert.ToDecimal(maxRow));
+            return (double)((decimal)amountOfProductByCategory.Count() / Convert.ToDecimal(maxRow));
         }
 
 

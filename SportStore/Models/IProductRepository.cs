@@ -10,7 +10,7 @@ namespace SportStore.Models
        public int CurrentPageIndex { get; set; }
         public int PageCount { get; set; }
 
-        public IEnumerable<Product> GetEFProduct(int currentPage);
-        public double getPageCount();
+        public IEnumerable<Product> GetEFProduct(int currentPage, string category);
+        public double getPageCount(string category);
     }
 }

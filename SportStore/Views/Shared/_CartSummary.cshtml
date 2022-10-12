@@ -1,0 +1,41 @@
+﻿@model CartLine
+    
+@{
+}
+
+
+ <tr>
+  
+     
+      <td >@Model.Quantity</td>
+      <td>@Model.Product.Description</td>
+      <td >@Model.Product.Price.ToString("C")</td>
+      <td> @Model.Product.Price.ToString("C")</td>
+      <td>
+          <form asp-action="RemoveFromCart" asp-controller="Cart" id="@Model.Product.ProductId" method="post" >
+       <input type="hidden" asp-for=@Model.Product.ProductId>
+       <button type="submit"  class="btn btn-danger" >  Remove</button>
+   
+      </form>
+      </td>
+      <td>
+          <form asp-action="EditFromCart" asp-controller="Cart"  method="get">
+               <input type="hidden" asp-for="@Model.Product.ProductId" />
+
+              <input type="hidden" asp-for="@Model.Quantity" />
+
+              <button type="submit" class="btn btn-primary">Edit</button>
+
+          </form>
+      </td>
+      
+       
+      </tr>
+      
+      
+   
+    
+
+
+
+

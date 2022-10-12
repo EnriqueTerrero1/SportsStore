@@ -1,13 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "rrLbR8TTvSIBGo7yS103wWW2nbZ1ISlUWU24kO9IB7OmW1XhTzyZVnyXOAnxbEem+fXrc6uWeMeEJ1SNVIdxUQ==",
+  "dgSpecHash": "d8wi0rfZ4UAOVmjEN2+KBgPNe1evS7RF/U+1+VzmMVc4mIyI7Jfs1+EgRXBPVLSWniEBie/xUR9NpuVRXDe4WQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Enrique Terrero\\Documents\\SportStore\\SportStore\\SportStore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\anglesharp\\0.9.9\\anglesharp.0.9.9.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\awssdk.core\\3.1.10\\awssdk.core.3.1.10.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\awssdk.s3\\3.1.9\\awssdk.s3.3.1.9.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\castle.core\\4.0.0\\castle.core.4.0.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\castle.windsor\\4.0.0\\castle.windsor.4.0.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\facebook\\6.4.2\\facebook.6.4.2.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\globallink.connect\\4.18.3.1\\globallink.connect.4.18.3.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\kentico.activities\\2.0.0\\kentico.activities.2.0.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\kentico.core\\2.0.0\\kentico.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\kentico.ecommerce\\2.0.1\\kentico.ecommerce.2.0.1.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\kentico.libraries\\11.0.0\\kentico.libraries.11.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\linqtotwitter\\4.0.0\\linqtotwitter.4.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.9\\microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
@@ -24,12 +37,16 @@
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.aspnetcore.razor.tools\\1.1.0-preview4-final\\microsoft.aspnetcore.razor.tools.1.1.0-preview4-final.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.aspnetcore.staticfiles\\2.2.0\\microsoft.aspnetcore.staticfiles.2.2.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.azure.search\\3.0.2\\microsoft.azure.search.3.0.2.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.codeanalysis.common\\1.3.0\\microsoft.codeanalysis.common.1.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.codeanalysis.csharp\\1.3.0\\microsoft.codeanalysis.csharp.1.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\1.3.0\\microsoft.codeanalysis.visualbasic.1.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.data.edm\\5.6.4\\microsoft.data.edm.5.6.4.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.data.odata\\5.6.4\\microsoft.data.odata.5.6.4.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.data.services.client\\5.6.4\\microsoft.data.services.client.5.6.4.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.0\\microsoft.data.sqlclient.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.0\\microsoft.data.sqlclient.sni.runtime.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.diasymreader.native\\1.4.0\\microsoft.diasymreader.native.1.4.0.nupkg.sha512",
@@ -76,17 +93,24 @@
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.netcore.runtime.coreclr\\1.1.0\\microsoft.netcore.runtime.coreclr.1.1.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.netcore.windows.apisets\\1.0.1\\microsoft.netcore.windows.apisets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.4\\microsoft.rest.clientruntime.2.3.4.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.4\\microsoft.rest.clientruntime.azure.3.3.4.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.6621.1200\\microsoft.sharepointonline.csom.16.1.6621.1200.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.spatial\\6.15.0\\microsoft.spatial.6.15.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.visualbasic\\10.1.0\\microsoft.visualbasic.10.1.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.web.xdt\\2.1.1\\microsoft.web.xdt.2.1.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\mono.cecil\\0.9.6.1\\mono.cecil.0.9.6.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.common\\3.5.0-beta2-1484\\nuget.common.3.5.0-beta2-1484.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.configuration\\3.5.0-beta2-1484\\nuget.configuration.3.5.0-beta2-1484.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.core\\2.14.0\\nuget.core.2.14.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.dependencyresolver.core\\3.5.0-beta2-1484\\nuget.dependencyresolver.core.3.5.0-beta2-1484.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.frameworks\\3.5.0-beta2-1484\\nuget.frameworks.3.5.0-beta2-1484.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.librarymodel\\3.5.0-beta2-1484\\nuget.librarymodel.3.5.0-beta2-1484.nupkg.sha512",
@@ -99,6 +123,8 @@
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.repositories\\3.5.0-beta2-1484\\nuget.repositories.3.5.0-beta2-1484.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.runtimemodel\\3.5.0-beta2-1484\\nuget.runtimemodel.3.5.0-beta2-1484.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\nuget.versioning\\3.5.0-beta2-1484\\nuget.versioning.3.5.0-beta2-1484.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\openpop.net\\2.0.4.369\\openpop.net.2.0.4.369.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\paypal\\1.8.0\\paypal.1.8.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -122,16 +148,24 @@
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.collections.immutable\\1.3.0\\system.collections.immutable.1.3.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.collections.nongeneric\\4.0.1\\system.collections.nongeneric.4.0.1.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.collections.specialized\\4.0.1\\system.collections.specialized.4.0.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.componentmodel.annotations\\4.3.0\\system.componentmodel.annotations.4.3.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.componentmodel.primitives\\4.1.0\\system.componentmodel.primitives.4.1.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.componentmodel.typeconverter\\4.1.0\\system.componentmodel.typeconverter.4.1.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.data.hashfunction.core\\1.8.2.2\\system.data.hashfunction.core.1.8.2.2.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.data.hashfunction.crc\\1.8.2.2\\system.data.hashfunction.crc.1.8.2.2.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.data.hashfunction.interfaces\\1.0.0.2\\system.data.hashfunction.interfaces.1.0.0.2.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.diagnostics.fileversioninfo\\4.0.0\\system.diagnostics.fileversioninfo.4.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.diagnostics.process\\4.3.0\\system.diagnostics.process.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.diagnostics.stacktrace\\4.0.1\\system.diagnostics.stacktrace.4.0.1.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.diagnostics.tracesource\\4.0.0\\system.diagnostics.tracesource.4.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
@@ -147,6 +181,7 @@
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.io.filesystem.watcher\\4.3.0\\system.io.filesystem.watcher.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.io.memorymappedfiles\\4.3.0\\system.io.memorymappedfiles.4.3.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.io.packaging\\4.0.0\\system.io.packaging.4.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.io.unmanagedmemorystream\\4.3.0\\system.io.unmanagedmemorystream.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
@@ -183,7 +218,8 @@
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
-    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.runtime.serialization.primitives\\4.1.1\\system.runtime.serialization.primitives.4.1.1.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.security.claims\\4.3.0\\system.security.claims.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
@@ -197,6 +233,7 @@
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.security.principal\\4.3.0\\system.security.principal.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.spatial\\5.6.4\\system.spatial.5.6.4.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
@@ -216,10 +253,112 @@
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.xml.xmldocument\\4.0.1\\system.xml.xmldocument.4.0.1.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.xml.xmlserializer\\4.0.11\\system.xml.xmlserializer.4.0.11.nupkg.sha512",
     "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512"
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
+    "C:\\Users\\Enrique Terrero\\.nuget\\packages\\windowsazure.storage\\7.2.0\\windowsazure.storage.7.2.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Castle.Core 4.0.0 depends on System.ComponentModel.TypeConverter (>= 4.0.1) but System.ComponentModel.TypeConverter 4.0.1 was not found. An approximate best match of System.ComponentModel.TypeConverter 4.1.0 was resolved.",
+      "libraryId": "System.ComponentModel.TypeConverter",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AWSSDK.Core 3.1.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AWSSDK.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AWSSDK.S3 3.1.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AWSSDK.S3",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Facebook 6.4.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Facebook",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GlobalLink.Connect 4.18.3.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "GlobalLink.Connect",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Kentico.Activities 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Kentico.Activities",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Kentico.Core 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Kentico.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Kentico.Ecommerce 2.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Kentico.Ecommerce",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Kentico.Libraries 11.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Kentico.Libraries",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'linqtotwitter 4.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "linqtotwitter",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",
@@ -254,8 +393,148 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
+      "message": "Package 'Microsoft.Data.Edm 5.6.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Data.Edm",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Data.OData 5.6.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Data.OData",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Data.Services.Client 5.6.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Data.Services.Client",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.SharePointOnline.CSOM 16.1.6621.1200' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.SharePointOnline.CSOM",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Spatial 6.15.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Spatial",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
       "message": "Package 'Microsoft.Web.Infrastructure 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Web.Infrastructure",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Web.Xdt 2.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Web.Xdt",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Mono.Cecil 0.9.6.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Mono.Cecil",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NuGet.Core 2.14.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NuGet.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenPop.NET 2.0.4.369' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenPop.NET",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PayPal 1.8.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PayPal",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.HashFunction.Core 1.8.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Data.HashFunction.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.HashFunction.CRC 1.8.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Data.HashFunction.CRC",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.HashFunction.Interfaces 1.0.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Data.HashFunction.Interfaces",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Spatial 5.6.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Spatial",
       "targetGraphs": [
         "net6.0"
       ]

@@ -1,0 +1,26 @@
+﻿@model Product
+
+
+@{
+}
+<div class="card w-75">
+        <div class="card-body">
+        
+           <form asp-action="AddToCart"  asp-controller="Cart" method="Post">
+
+            <div>
+            <input type="hidden" asp-for="ProductId"/>
+              <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Description</p>
+            </div>
+            <div class=card-price>
+            <h3>@Model.Price.ToString("c")</h3>
+            </div>
+            <div>
+                <button type ="submit" class="btn btn-success"> Add To Cart</button>
+            </div>
+            </form>
+        </div>
+        
+     
+    </div>
