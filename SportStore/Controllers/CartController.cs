@@ -6,9 +6,9 @@ namespace SportStore.Controllers
     public class CartController : Controller
     {
         private readonly IProductRepository repository;
-        private readonly ICart cart;
+        private readonly ICartRepository cart;
 
-        public CartController(IProductRepository repo, ICart cart)
+        public CartController(IProductRepository repo, ICartRepository cart)
         {
             repository = repo;
             this.cart = cart;
@@ -18,9 +18,9 @@ namespace SportStore.Controllers
             CartIndexViewModel model = new CartIndexViewModel
             {
                 Carts = cart.Lines,
-                Total= cart.ComputeTotalValue()
+                Total = cart.ComputeTotalValue()
             };
-            
+
             return View(model);
         }
 
@@ -34,23 +34,23 @@ namespace SportStore.Controllers
                 cart.AddItem(product, 1);
 
 
-                return RedirectToAction("index",cart);
+                return RedirectToAction("index", cart);
             }
             return View("no encontrado");
 
         }
 
-        public IActionResult RemoveFromCart( CartLine cartLine)
+        public IActionResult RemoveFromCart(CartLine cartLine)
         {
 
-            
+
             Product product = repository.Products.FirstOrDefault(x => x.ProductId == cartLine.Product.ProductId);
-            if( product != null)
+            if (product != null)
             {
                 cart.RemoveLine(product);
             }
             return RedirectToAction("index");
-          
+
 
         }
 
@@ -59,25 +59,25 @@ namespace SportStore.Controllers
             Product product = repository.Products.FirstOrDefault(x => x.ProductId == cartLine.Product.ProductId);
 
             cartLine.Product = product;
-            
+
             return View(cartLine);
         }
 
         [HttpPost]
         public IActionResult EditFromCart1(CartLine cartLine)
         {
-           
+
 
             cart.EditFromCart(cartLine);
             CartIndexViewModel model = new CartIndexViewModel
             {
-                
+
                 Carts = cart.Lines,
                 Total = cart.ComputeTotalValue()
             };
 
 
-            return View("index",model);
+            return View("index", model);
         }
     }
 }

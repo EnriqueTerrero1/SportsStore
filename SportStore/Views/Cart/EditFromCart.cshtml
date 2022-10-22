@@ -2,6 +2,8 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 @{
+
+   
    
 }
 <div class="card w-75">
@@ -16,10 +18,19 @@
             </div>
             <div class=card-price>
             <h3>@Model.Product.Price.ToString("c")</h3>
-            <input asp-for="@Model.Quantity"/>
+
+            <select asp-for="@Model.Quantity">
+
+                @for(int i =0; i<= 100; i++)
+                {
+                    <option >@i</option>
+                    
+                }
+                
+            </select>
             </div>
             <div>
-                <button type ="submit" class="btn btn-success"> Add To Cart</button>
+                <button style= "margin:2px;" type ="submit" class="btn btn-success"> Add To Cart</button>
             </div>
             </form>
         </div>

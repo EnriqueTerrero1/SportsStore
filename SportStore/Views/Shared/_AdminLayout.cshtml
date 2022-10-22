@@ -1,0 +1,28 @@
+﻿<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <!-- CSS only -->
+       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <title>@ViewBag.title</title>
+    </head>
+
+    <body class="m-1 p-1">
+        <div class="bg-info p-2 row">
+ <div class="col">
+ <h4>@ViewBag.Title</h4>
+ </div>
+ <div class="col-2">
+ <a class="btn btn-sm btn-primary"
+ asp-action="Logout" asp-controller="Account">Log Out</a>
+
+  <a class="btn btn-sm btn-success" asp-action="Registry" asp-controller="Account">Registry</a>
+
+ </div>
+ </div>
+    @if (TempData["message"] != null)
+    {
+        <div class="alert alert-success">@TempData["message"]</div>
+    }
+    @RenderBody()
+    </body>
+</html>

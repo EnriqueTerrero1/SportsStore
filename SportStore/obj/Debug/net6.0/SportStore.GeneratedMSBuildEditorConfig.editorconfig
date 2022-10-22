@@ -8,61 +8,101 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SportStore
 build_property.RootNamespace = SportStore
-build_property.ProjectDir = C:\Users\Enrique Terrero\Documents\SportStore\SportStore\
+build_property.ProjectDir = C:\Users\Enrique Terrero\Desktop\SportsStore\SportsStore\SportStore\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Enrique Terrero\Documents\SportStore\SportStore
+build_property.MSBuildProjectDirectory = C:\Users\Enrique Terrero\Desktop\SportsStore\SportsStore\SportStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Cart/EditFromCart.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Cart/EditFromCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxFZGl0RnJvbUNhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Cart/Index.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Home/Index.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Home/Privacy.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Product/List.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Order/Completed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ29tcGxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Order/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Product/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Shared/Components/NavigationMenu/default.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/CartDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENhcnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/Components/CartSummary/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFN1bW1hcnlcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/Components/NavigationMenu/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2aWdhdGlvbk1lbnVcZGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Shared/Error.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Shared/_CartSummary.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/_CartSummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJ0U3VtbWFyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Shared/_ProductSummary.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/_ProductSummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0U3VtbWFyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/_ViewImports.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/_ViewStart.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Enrique Terrero/Documents/SportStore/SportStore/Views/Shared/_Layout.cshtml]
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9wmr3jgvct

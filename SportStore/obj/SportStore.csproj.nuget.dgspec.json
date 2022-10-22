@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Enrique Terrero\\Documents\\SportStore\\SportStore\\SportStore.csproj": {}
+    "C:\\Users\\Enrique Terrero\\Desktop\\SportsStore\\SportsStore\\SportStore\\SportStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Enrique Terrero\\Documents\\SportStore\\SportStore\\SportStore.csproj": {
+    "C:\\Users\\Enrique Terrero\\Desktop\\SportsStore\\SportsStore\\SportStore\\SportStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enrique Terrero\\Documents\\SportStore\\SportStore\\SportStore.csproj",
+        "projectUniqueName": "C:\\Users\\Enrique Terrero\\Desktop\\SportsStore\\SportsStore\\SportStore\\SportStore.csproj",
         "projectName": "SportStore",
-        "projectPath": "C:\\Users\\Enrique Terrero\\Documents\\SportStore\\SportStore\\SportStore.csproj",
+        "projectPath": "C:\\Users\\Enrique Terrero\\Desktop\\SportsStore\\SportsStore\\SportStore\\SportStore.csproj",
         "packagesPath": "C:\\Users\\Enrique Terrero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enrique Terrero\\Documents\\SportStore\\SportStore\\obj\\",
+        "outputPath": "C:\\Users\\Enrique Terrero\\Desktop\\SportsStore\\SportsStore\\SportStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Enrique Terrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,9 +44,45 @@
               "target": "Package",
               "version": "[2.0.1, )"
             },
+            "Microsoft.AspNet.DataProtection.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.0-rc1-final, )"
+            },
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
             "Microsoft.AspNet.Mvc": {
               "target": "Package",
               "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.Internal": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22476.2, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22476.2, )"
+            },
+            "Microsoft.AspNetCore.DataProtection": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22476.2, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.Extensions": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22476.2, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.SystemWeb": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             },
             "Microsoft.AspNetCore.Mvc.Abstractions": {
               "target": "Package",
@@ -62,17 +98,29 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.0-rc.1.22426.7, )"
+              "version": "[7.0.0-rc.2.22472.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.0-rc.1.22426.7, )"
+              "version": "[7.0.0-rc.2.22472.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0-rc.1.22426.7, )"
+              "version": "[7.0.0-rc.2.22472.11, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22476.2, )"
+            },
+            "System.Security.Cryptography.ProtectedData": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.3, )"
             }
           },
           "imports": [
