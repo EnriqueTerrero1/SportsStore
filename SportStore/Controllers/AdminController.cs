@@ -15,6 +15,7 @@ namespace SportStore.Controllers
         }
         public IActionResult Index()
         {
+            
             return View(productRepository.Products);
         }
         public IActionResult Edit(int ProductId)
@@ -46,27 +47,6 @@ namespace SportStore.Controllers
             productRepository.DeleteProduct(product);
             return RedirectToAction("Index");
         }
-
-        /* [HttpGet]
-         public IActionResult Create()
-         {
-             return View();
-         }
-
-
-
-         [HttpPost]
-           public IActionResult Create(Product product)
-           {
-               if (!ModelState.IsValid && product.ProductId==0)
-               {
-                   productRepository.SaveProduct(product);
-                   TempData["message"] = $"{product.Name} has been added";
-                   return RedirectToAction("Index");
-               }
-               return View(product);
-
-     }*/
 
         public ViewResult Create()
         {

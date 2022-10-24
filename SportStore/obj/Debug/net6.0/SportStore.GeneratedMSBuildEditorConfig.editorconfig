@@ -19,6 +19,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Account/Registry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Admin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -85,6 +89,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/_CartSummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJ0U3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/_formularioForAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb3JtdWxhcmlvRm9yQWNjb3VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Enrique Terrero/Desktop/SportsStore/SportsStore/SportStore/Views/Shared/_ProductSummary.cshtml]

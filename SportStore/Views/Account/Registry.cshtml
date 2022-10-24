@@ -1,0 +1,21 @@
+﻿@model LoginModel
+@{
+ ViewBag.Title = "Registry a new Account";
+ Layout = "_AdminLayout";
+}
+<!--<div class="text-danger" asp-validation-summary="All"></div>-->
+<form asp-action="Registry" asp-controller="Account" method="post">
+    <div class="form-group">
+ <label asp-for="Name"></label>
+ <div><span asp-validation-for="Name" class="text-danger"></span></div>
+ <input asp-for="Name" class="form-control" />
+ </div>
+ <div class="form-group">
+ <label asp-for="LastName"></label>
+ <div><span asp-validation-for="LastName" class="text-danger"></span></div>
+ <input asp-for="LastName" class="form-control" />
+ </div>
+<partial name="_formularioForAccount" />
+    <button class="btn btn-primary" type="submit">Registry</button>
+   </form>
+

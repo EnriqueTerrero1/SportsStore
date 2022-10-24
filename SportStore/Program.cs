@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using SportStore.Controllers;
 using SportStore.Models;
 using Microsoft.AspNetCore.Identity;
+using SportStore.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,7 +21,13 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectio
 builder.Services.AddDbContext<AppIdentityDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionForIdentity")));
 
-builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppIdentityDbContext>().AddDefaultTokenProviders();
+builder.Services.AddAutoMapper(typeof(Program));
+
+
+
+
+
 
 var app = builder.Build();
 
@@ -36,8 +43,9 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
+
 
 
 app.MapControllerRoute(

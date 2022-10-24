@@ -4,7 +4,6 @@
     {
 
 
-        // public List<CartLine> lineCollection { get; }
 
 
         public void AddItem(Product product, int quantity);

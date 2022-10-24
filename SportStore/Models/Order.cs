@@ -39,7 +39,6 @@ namespace SportStore.Models
         public bool GiftWrap { get; set; }
 
 
-        //public Pedidos Pedidos { get; set; }
-       // public ICollection<Pedidos> pedidos { get; set; }
+        
     }
 }

@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.microsoft.dependencyinjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Kentico.Ecommerce": {
               "target": "Package",
               "version": "[2.0.1, )"
@@ -100,11 +104,11 @@
               "target": "Package",
               "version": "[7.0.0-rc.2.22472.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
               "version": "[7.0.0-rc.2.22472.11, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0-rc.2.22472.11, )"
             },
@@ -117,6 +121,10 @@
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
               "version": "[7.0.0-rc.2.22476.2, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             },
             "System.Security.Cryptography.ProtectedData": {
               "target": "Package",
